@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Backlog",
+        "items": [
+            {
+                "id": 1,
+                "priority": 0,
+                "title": "COmpany website redesign",
+                "chat": 1,
+                "attachment": 2,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/women/4.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "priority": 0,
+                "title": "Company website redesign",
+                "chat": 1,
+                "attachment": 2,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/women/93.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "priority": 0,
+                "title": "Company website prototype",
+                "chat": 1,
+                "attachment": 2,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/men/82.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "priority": 0,
+                "title": "COmpany website redesign",
+                "chat": 1,
+                "attachment": 2,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/women/4.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "In Progress",
+        "items": [
+            {
+                "id": 5,
+                "priority": 0,
+                "title": "Research and strategy",
+                "chat": 1,
+                "attachment": 3,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/women/4.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "priority": 0,
+                "title": "E-learning",
+                "chat": 1,
+                "attachment": 2,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/women/93.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "In review",
+        "items": [
+            {
+                "id": 7,
+                "priority": 2,
+                "title": "Dashboard layout",
+                "chat": 1,
+                "attachment": 3,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/women/4.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "priority": 2,
+                "title": "Social media posts",
+                "chat": 1,
+                "attachment": 2,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/women/93.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Completed",
+        "items": [
+            {
+                "id": 9,
+                "priority": 2,
+                "title": "Navigation bar",
+                "chat": 1,
+                "attachment": 3,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/women/4.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "priority": 2,
+                "title": "Banners",
+                "chat": 1,
+                "attachment": 1,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/women/93.jpg"
+                    }
+                ]
+            }
+        ]
+    }
+]
