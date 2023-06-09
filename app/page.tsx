@@ -36,7 +36,7 @@ export default function Home() {
       {/*Board header*/}
       <div className='flex justify-between'>
         <div className='flex items-center'>
-          <h4 className='text-2xl font-bold text-gray-600'>Drag and drop app</h4>
+          <h4 className='text-2xl font-bold text-gray-600'>OpenJira app </h4>
           <ChevronDownIcon className='w-7 h-7 text-gray-500 rounded-full bg-white p-2 bg-white ml-5 shadow-xl' />
         </div>
         <div>
