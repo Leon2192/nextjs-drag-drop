@@ -86,7 +86,7 @@ export default function Home() {
                                       key={item.id}
                                       data={item}
                                       index={iIndex}
-                                      className='m-3'
+                                    // className='m-3'
                                     />)
                                 })
                               )
